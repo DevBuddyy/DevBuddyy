@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  ### Hi there 👋
+</div>
 
 ### Languages and Tools :
 <div>
